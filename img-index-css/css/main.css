@@ -47,26 +47,30 @@ height: 800px;
 /****** HEADER ******/
 
 header {
-   
+	
+    height: 1000px;
     background: url('../images-icons/hero-image.png');
     background-size: cover;
 }
 	
 header h1 {
-	padding-left: 200px;
-	font-size: 60px;
+	padding-left: 450px;
+	padding-top: 450px;
+	font-size: 80px;
 	color: #bdbf09;
 	font-family: roboto slab;
+	
 	
 	
 }
 	
 header h2  {
 
-	font-size: 48px;
+	font-size: 55px;
 	color: #087e8b;
 	font-family:roboto regular;
-	padding-left: 200px;
+	padding-left: 460px;
+	margin-top: 20px;
 	
 }
 
@@ -99,6 +103,7 @@ header h2  {
     font-size: 24px;
 	text-align: left;
 	font-family:roboto regular;
+	padding-top:60px;
 } 
 	
 #work p {
@@ -124,6 +129,9 @@ header h2  {
 #about h2 {
 	text-align: center;
 	padding: 35px 0px;
+	font-family: roboto slab;
+	font-size: 36px;
+	color: #ffffff;
 }
 
 #about img {
@@ -135,10 +143,12 @@ header h2  {
 	font-family: roboto regular;
 	font-size: 24px;
 	padding: 0px 0px 0px 100px;
+	color: #ffffff;
 }
 	
 	
 /****** CONTACT ******/
+
 
 #contact .full-width {
     
@@ -146,24 +156,31 @@ header h2  {
 	
 }
 
+
 #contact .third-width {
-	padding-left: 100px;
+	padding-left: 250px;
+	padding-top: 85px;
+	text-align:center;
 	
 }
 
 #contact h2 {
     font-size: 36px;
-	text-align: center;
 	font-family:roboto slab;
-    
+    color: #ffffff;
 }
 
-#contact img {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-  
+ 
+#contact ul{
+	list-style: none;
 }
+
+#contact li {
+	display:inline;
+}
+
+	
+	
 
 
 	
