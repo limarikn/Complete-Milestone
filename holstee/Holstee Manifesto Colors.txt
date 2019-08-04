@@ -1,0 +1,15 @@
+Colors and Fonts for Holstee Manifesto
+
+Background (wine/persimmon)
+#660000
+
+Text #000000 (black)
+ 
+Highlight text (gold)
+#bf8040
+
+Text:
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+CSS
+font-family: 'Ubuntu', sans-serif;
+

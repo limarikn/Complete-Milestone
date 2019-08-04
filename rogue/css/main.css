@@ -1,0 +1,164 @@
+/***BASE STYLES***/
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+#header {
+	height:110px;
+}
+
+
+#green-beans {
+	height:340px;
+	
+}
+	
+#about {
+	}
+
+		
+#info {
+  height:180px;
+	}
+	
+/***** GRID *****/
+
+.full-width {
+    width: auto;
+    margin:0px 15px 0px 15px;
+}
+
+.half-width{ 
+	width:50%;
+	float: left;
+}
+ .third-width {
+	 width:33%;
+	 float:left;
+ }
+	
+	
+
+ 
+
+ /***** HEADER *****/
+ 
+ header {
+	 height:110px;
+	
+ }
+  
+ 
+ header h1{
+	 color:black;
+	 text-transform: uppercase;
+	  padding-top:30px;
+	  font-size:30px;
+	
+	 
+ }
+ 
+nav {
+    float: right; 
+	 padding: 50px 15px 0px 0px;
+}
+
+nav ul li{
+	
+    display: inline-block;
+	margin: 0px 10px 0px 10px;
+
+}
+
+nav ul li a {
+	word-spacing:45px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 16px;
+    color: #006600;
+	
+ 
+	
+}
+
+/***** Green Beans ****/
+
+#green-beans {
+	background:url('images-icons/hero-image.png');
+	background-size:cover;
+	margin: 0px 15px 0px 15px;
+	border: 5px solid #006600;
+}
+
+
+ /***** About *****/
+ 
+  #about .full-width {
+	  border-bottom: 1px solid #ccc;
+	  
+	  
+ 
+  }
+  #about h2 {
+	  text-transform: uppercase;
+	  font-size: 18px;
+	  color:#006600;
+  }
+  
+  #about h3 {
+	  font-size: 16px;
+	  padding: 0px 0px 18px 0px;
+      line-height: 25px;
+	  
+	  
+	  }
+	  
+	  
+/******INFO******/
+
+#info {
+	
+border-bottom: 1px solid #ccc;
+
+}
+
+#stpaddy {
+border-right: 1px solid #ccc;
+border-left: 1px solid #ccc;
+}
+
+#info h3 {
+	padding: 0 35px;
+	text-transform: uppercase;
+	font-size: 16px;
+	line-height:24px;
+	font-family: 'Ubuntu', sans-serif;
+}
+ 
+ #info p {
+	 
+    padding: 0 35px;
+	line-height:20px;
+	
+ }
+	
+#info ul {
+    color:#006600;
+	line-height:30px;
+	list-style: none;
+ }
+ 
+ /******FOOTER*******/
+ 
+ #footer {
+	 text-align: center;
+	 text-transform: uppercase;
+ }
+ 
+ #fresh {
+	 color:#006600;
+	 font-family: 'Dancing Script', cursive;
+	 text-transform:none;
+	 font-size: 120%;
+ }

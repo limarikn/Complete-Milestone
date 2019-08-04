@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Limari, Web Developer, Los Angeles</title>
+		<!--<link rel="stylesheet" href="css/normalize.css">-->
+        <link rel="stylesheet" href="css/main.css">
+		<link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet'>
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+ </head>
+ 
+ <header>
+  
+		<h1> Limari	</h1>
+		<h2>Web Developer, Los Angeles</h2>
+  
+   
+	 <body>
+	  
+	</header>
+	  
+	  
+	<main>
+	  
+	  <section id="work">
+	   
+	      <h2> My Portfolio </h2>
+	    
+	  
+	
+	     
+		 <div class="half-width">
+		
+		 <img src="images-icons/rogue-pickings-thumbnail.png" alt="hero icon" />		
+	
+		 <img src="images-icons/jubilee-thumbnail.png" alt="hero icon" />
+		 
+		 <img src="images-icons/holstee-thumbnail.png" alt="hero icon" />
+		  </div>
+		  
+		 <div class="half-width">
+		    <h3> Rogue Pickings</h3>
+			 <p>Here is an example of a page I created using CSS and HTML using a Photoshop design comp.</p>
+             <h3> Jubilee Austin</h3>
+			 <p>This is a functional single page website.</p>
+			 <h3>Holstee Manifesto</h3>
+			 <p>CSS and HTML exercise</p>
+			 
+		 </div>
+		 
+	  </section> 
+		 
+		
+		
+		<section id="about">
+	   <div class="full-width">
+	   
+	   <h2> About Me </h2>
+	   </div>
+	     <div class="half-width">
+		   <img src="images-icons/head-shot.jpg" alt="head shot" />
+		   
+		  </div>
+		  <div class="half-width">
+		  <p> My name is Limari and I’m a developer who loves helping clients get their ideas out on the web. If you need a strong online presence and feel that do it yourself websites are not cutting it, leave it to me to create the website you’ve always wanted. 
+		   I approach each project with accuracy and thoughtfullness and will always respond to my clients needs. 
+		  To share something fun about myself, when I’m not coding I might be singing in a grand opera chorus or hiking to the nearest peak overlooking the pacific.</p>
+		
+		 </div>
+	   
+	</section>
+		
+		
+		
+	  <footer id="contact">
+	  <div class="full-width">
+	  <h2>Lets Connect</h2>
+	  </div>
+	    <div class="third-width">
+		<h2> hire me </h2>
+		<h2> 555-5555</h2>
+		<h2> limarikn [at] gmail.com</h2>
+		
+		</div>
+		<div class="third-width">
+		
+		<ul>
+		  <li>
+		   <img src="images-icons/facebook-logo.png" alt="fb logo" />
+		  </li>
+		 
+		 <li>
+		  <img src="images-icons/linkedin-sign.png" alt="linkedin" />
+		  </li>
+		  
+		  <li>
+		   <img src="images-icons/github-sign.png" alt="github logo" />
+		   </li>
+		   </ul>
+		</div>
+		<div class="third-width">
+		<h2>Meet Me </h2>
+		</div>
+	  </footer>
+	</main>
+    
+    </body>
+</html>
